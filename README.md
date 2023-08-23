@@ -9,22 +9,6 @@ Experience the power of ChatGPT with a user-friendly interface, enhanced jailbre
 ## Known bugs 🚧
 - Stream mode not working properly.
 
-## News 📢
-I have created a new version of FreeGPT WebUI using the [ChimeraGPT API](https://chimeragpt.adventblocks.cc/). 
-<br>
-<br>
-This free API allows you to use various AI chat models, including <strong>GPT-4, GPT-4-32k, llama-2 and more.</strong> <br>
-Check out the project here: [FreeGPT WebUI - Chimera Version](https://github.com/ramonvc/freegpt-webui/tree/chimeragpt-version).
-
-## Project Hosting and Demonstration 🌐🚀
-The project is hosted on multiple platforms to be tested and modified.
-|Plataform|Status|API Key|Free|Repo|Demo|
-|--|--|--|--|--|--|
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://replit.com/@ramonvc/freegpt-webui)|[Chat](https://freegpt-webui.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://huggingface.co/spaces/monra/freegpt-webui/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui)
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Chimera Version](https://replit.com/@ramonvc/freegpt-webui-chimera)|[Chat](https://freegpt-webui-chimera.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Chimera Version](https://huggingface.co/spaces/monra/freegpt-webui-chimera/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui-chimera)
-
 ## Note ℹ️ 
 <p>
  FreeGPT - это проект, который использует различные бесплатные поставщики API для общения с искусственным интеллектом. Каждый поставщик представляет собой API, который предоставляет ответы, сгенерированные различными моделями искусственного интеллекта. Исходный код, относящийся к этим сервисам, доступен в папке G4F.
