@@ -19,61 +19,46 @@
 Пожалуйста, обратите внимание, что выбор и интеграция дополнительных поставщиков являются ответственностью пользователя и не имеют прямого отношения к проекту FreeGPT, поскольку проект служит примером того, как объединить G4F API с веб-интерфейсом.
 </p>
 
-## Table of Contents  
-- [To-Do List](#to-do-list-%EF%B8%8F)  
-- [Getting Started](#getting-started-white_check_mark)  
-  - [Cloning the Repository](#cloning-the-repository-inbox_tray)  
-  - [Install Dependencies](#install-dependencies-wrench)  
-- [Running the Application](#running-the-application-rocket)  
-- [Docker](#docker-)  
-  - [Prerequisites](#prerequisites)  
-  - [Running the Docker](#running-the-docker)
-- [Incorporated Projects](#incorporated-projects-busts_in_silhouette)
-  - [WebUI](#webui) 
-  - [API FreeGPT](#api-g4f)
-- [Star History](#star-history)
-- [Legal Notice](#legal-notice) 
+## Справка
+Все что вы тут ивидете создано в качестве ознакомительной цели и автор не несет никакой ответственности.
 
 ##
 
 ## To-Do List ✔️
 
-- [x] Integrate the free GPT API into the WebUI
-- [x] Create Docker support
-- [x] Improve the Jailbreak functionality
-- [x] Add the GPT-4 model
-- [x] Enhance the user interface
-- [ ] Check status of API Providers (online/offline)
-- [ ] Enable editing and creating Jailbreaks/Roles in the WebUI
-- [ ] Refactor web client
 
-## Getting Started :white_check_mark:  
+- [ ] Добавить бота Teegramm
+- [ ] Создать контекстный диалог
+- [ ] Реализовать генерацию картинок
+- [ ] Добавить приложение
+
+## Начало работы :white_check_mark:  
 To get started with this project, you'll need to clone the repository and have [Python](https://www.python.org/downloads/) installed on your system.  
   
-### Cloning the Repository :inbox_tray:
+### Сохраните репозиторий :inbox_tray:
 Run the following command to clone the repository:  
 
 ```
 git clone 
 ```
 
-### Install Dependencies :wrench: 
+### Устанавливать зависимости :wrench: 
 Navigate to the project directory:
 ```
 cd freegpt
 ```
 
-Install the dependencies:
+Устанавливать зависимости:
 ```
 pip install -r requirements.txt
 ```
-## Running the Application :rocket:
-To run the application, run the following command:
+## Запуск приложения :rocket:
+Чтобы запустить приложение, выполните следующую команду:
 ```
 python run.py
 ```
 
-Access the application in your browser using the URL:
+Получите доступ к приложению в вашем браузере, используя URL-адресL:
 ```
 http://127.0.0.1:1338
 ```
