@@ -24,7 +24,7 @@
 
 ##
 
-## To-Do List ✔️
+## Список дел ✔️
 
 
 - [ ] Добавить бота Teegramm
@@ -33,17 +33,17 @@
 - [ ] Добавить приложение
 
 ## Начало работы :white_check_mark:  
-To get started with this project, you'll need to clone the repository and have [Python](https://www.python.org/downloads/) installed on your system.  
+Чтобы начать работу с этим проектом, вам нужно будет клонировать репозиторий и иметь [Python](https://www.python.org/downloads /) установлен в вашей системе. 
   
 ### Сохраните репозиторий :inbox_tray:
-Run the following command to clone the repository:  
+Запустите следующую команду, чтобы клонировать репозиторий:  
 
 ```
 git clone 
 ```
 
 ### Устанавливать зависимости :wrench: 
-Navigate to the project directory:
+Перейдите в каталог проекта:
 ```
 cd freegpt
 ```
