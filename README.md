@@ -39,7 +39,7 @@
 Запустите следующую команду, чтобы клонировать репозиторий:  
 
 ```
-git clone 
+git clone https://github.com/sergunchik218/FREEGPT
 ```
 
 ### Устанавливать зависимости :wrench: 
